@@ -1,5 +1,4 @@
 # 🌐 IPv4 Addressing
-
 ---
 
 ## 📘 Introduction to IPv4 Addressing and Structure
